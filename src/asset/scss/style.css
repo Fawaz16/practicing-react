@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0;
+}
+
+.Navbutton {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.Navbutton button {
+  color: var(--buttoncolour);
+}
+/*# sourceMappingURL=style.css.map */
